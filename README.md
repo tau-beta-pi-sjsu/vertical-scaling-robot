@@ -7,7 +7,7 @@ An autonomous glass(vertical) scaling robot with voice recognition and sanitatio
 This is the current project for Tau Beta Pi California Eta for member participation in an extra curricular activity.
 
 ## Tasks
-This is simply a very brief description of what actions the sub-teams can accomplish
+This is simply a very brief description of what actions the sub-teams can accomplish  
 
 * Create Makefile
 * Use NodeJS terminal to communicate with the I2C, actuators, accelerometer, DOF
@@ -16,8 +16,8 @@ This is simply a very brief description of what actions the sub-teams can accomp
 * Data sub-team: potential usage of storing .hex files and other information (PHP, MySQL, MariaDB)
 * Machine Learning: Computer vision, obstacle recognition, readjustment if the robot falls, etc'
 
-> Not all of these tasks will probably be sought after
-> Main focus is Raspberry Pi, SJSUOne Board, and NodeJS
+> Not all of these tasks will probably be sought after  
+> Main focus is Raspberry Pi, SJSUOne Board, and NodeJS  
 
 ## Components/Programs
 | Name | Usage |
